@@ -1,0 +1,81 @@
+.changeTheme {
+    /* background: #1D1E22;
+    color: #eee; */
+  }
+
+  .form-heading{
+    line-height: 1.2;
+    font-size: 24px;
+    font-weight: 600;
+    color: #495770;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  }
+
+  .doctor-image{
+    z-index: -1;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+
+  .consult_form{
+    background: white;
+    width: 50ch;
+    margin: 90px;  
+    border-radius: 10px;  
+
+  }
+
+  .name-fields{
+    padding: 30px 0px 30px 50px;
+  }
+
+  .send-data{
+    background: #00ACC1 !important;
+    margin: 20px 0px 0px 50px !important;
+  }
+
+  .check-previous{
+    padding: 10px 10px 10px 7px;
+  }
+
+  .testmonialsMain{
+    /* margin: auto !important; */
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .headingText{
+    padding: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    color: #00ACC1;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  }
+
+  .testmonials{
+    display: flex;
+    justify-content: center;
+    /* margin: 10px; */
+    gap: 20px;
+  }
+
+  
+  .testmonialsOne, .testmonialsTwo, .testmonialsThree{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 10px rgba(230,230,230,0.5);
+  }
+  .patientWords{
+    background: #495770;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+    color: white;
+  }
+  .patientWordsDescription{
+    background: white;
+  }
+  .testmonialsOneImage, .testmonialsTwoImage, .testmonialsThreeImage {
+    width: 300px;
+    height: 300px;
+  }
