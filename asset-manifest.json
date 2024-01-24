@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FixHealth-App/static/css/main.6c49a3b4.css",
+    "main.js": "/FixHealth-App/static/js/main.f5383934.js",
+    "static/js/787.feebb5ec.chunk.js": "/FixHealth-App/static/js/787.feebb5ec.chunk.js",
+    "static/media/nurse-portrait-hospital.jpg": "/FixHealth-App/static/media/nurse-portrait-hospital.7be0b5830af493db20d4.jpg",
+    "static/media/Patel_xOznYxGIr5.webp": "/FixHealth-App/static/media/Patel_xOznYxGIr5.25603aae3c9280d77350.webp",
+    "static/media/Deep_P-vGzCQ88.webp": "/FixHealth-App/static/media/Deep_P-vGzCQ88.eab86a7c5c58e1464d29.webp",
+    "static/media/Nasir_kCpBt8epvL.webp": "/FixHealth-App/static/media/Nasir_kCpBt8epvL.be8f0f2e3af6ae4c8483.webp",
+    "index.html": "/FixHealth-App/index.html",
+    "main.6c49a3b4.css.map": "/FixHealth-App/static/css/main.6c49a3b4.css.map",
+    "main.f5383934.js.map": "/FixHealth-App/static/js/main.f5383934.js.map",
+    "787.feebb5ec.chunk.js.map": "/FixHealth-App/static/js/787.feebb5ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c49a3b4.css",
+    "static/js/main.f5383934.js"
+  ]
+}
